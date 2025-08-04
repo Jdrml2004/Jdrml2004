@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm José Lima
 
-<!--
-**Jdrml2004/Jdrml2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full stack developer and recent Computer Science graduate from the University of Algarve.  
+Curious by nature, I enjoy understanding how systems work and building reliable, scalable software.
 
-Here are some ideas to get you started:
+🛠️ **Skills & Tools**  
+Languages: Java, Python, C, C++, JavaScript, TypeScript  
+Frameworks: React, Node.js, Express, Django, Bootstrap  
+Tools: Docker, Git, PostgreSQL, MongoDB, REST APIs, Postman, JUnit  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Languages**  
+Portuguese (native), English (C1/C2 level)
+
+🎯 Always looking to grow, collaborate, and contribute to meaningful software projects.
+
+📫 [limajose2910@gmail.com](mailto:limajose2910@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-lima-939385360)
