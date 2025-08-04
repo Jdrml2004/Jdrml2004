@@ -1,6 +1,6 @@
 # 👋 Hi, I'm José Lima
 
-I'm a passionate full stack developer and recent Computer Science graduate from the University of Algarve.  
+I'm a passionate software developer and recent Computer Science graduate.  
 Curious by nature, I enjoy understanding how systems work and building reliable, scalable software.
 
 🛠️ **Skills & Tools**  
